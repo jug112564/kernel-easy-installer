@@ -1,6 +1,5 @@
 # kernel easy installer
 원하는 버전의 커널을 쉽게 설치할 수 있는 bash 스크립트
-![image](https://github.com/jug112564/CustomOS-v1/assets/85517298/25159660-0b9a-4815-aaa2-50ee76a0c622)
 
 ## 실행방법
 "sudo bash update_kernel.sh"를 입력하거나 혹은 su로 root로그인 한 후 "bash update_kernel.sh"입력
